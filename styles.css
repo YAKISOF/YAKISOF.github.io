@@ -481,15 +481,15 @@ h1 {
 
   .hero {
     align-items: flex-start;
-    min-height: 620px;
-    padding: 70px 0 28px;
+    min-height: 660px;
+    padding: 54px 0 24px;
   }
 
   .hero-image {
-    width: 138vw;
+    width: 168vw;
     max-width: none;
     max-height: none;
-    margin-top: 42px;
+    margin-top: 18px;
   }
 
   .portfolio-grid {
